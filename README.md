@@ -18,3 +18,8 @@ A simple frontend-only e-commerce website built using **HTML**, **CSS**, and **J
 - **JavaScript** – DOM manipulation and cart functionality
 
 ## Screenshots 
+![img-alt](https://github.com/Sahilkhandelwal2072/E_commerce_website/blob/main/web/screenshot/Screenshot%202025-06-18%20150023.png)
+![img-alt](https://github.com/Sahilkhandelwal2072/E_commerce_website/blob/main/web/screenshot/Screenshot%202025-06-18%20150054.png)
+![img-alt](https://github.com/Sahilkhandelwal2072/E_commerce_website/blob/main/web/screenshot/Screenshot%202025-06-18%20150104.png)
+![img-alt](https://github.com/Sahilkhandelwal2072/E_commerce_website/blob/main/web/screenshot/Screenshot%202025-06-18%20150119.png)
+
